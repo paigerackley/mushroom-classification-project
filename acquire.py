@@ -1,3 +1,10 @@
+import pandas as pd
+import numpy as np
+import os
+
+from env import host, user, password
+
+
 def get_mush_data():
     '''
     This function reads in iris data from Codeup database, writes data to
