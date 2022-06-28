@@ -1,4 +1,4 @@
-def get_telco_data():
+def get_mush_data():
     '''
     This function reads in iris data from Codeup database, writes data to
     a csv file if a local file does not exist, and returns a df.
