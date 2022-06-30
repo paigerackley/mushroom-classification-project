@@ -51,6 +51,14 @@ def prepare_mush(df):
     df.rename(columns = {'ring-type':'ring_type'}, inplace = True)
     df.rename(columns = {'spore-print-color':'spore_print_color'}, inplace = True)
 
+
+    # Make dummies df for non-binary variables
+    dummy_df = pd.get_dummies(df[['cap_color', 'odor', 'population', 'habitat']], dummy_na=False, \
+                              drop_first=True)
+
+     # Concat dummy to original 
+    df = pd.concat([df, dummy_df], axis=1)                         
+
     # Split the data
     train, validate, test = split_mush_data(df)
 
