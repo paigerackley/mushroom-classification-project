@@ -148,7 +148,8 @@ As shown, all of these models are extremely close in precision and accuracy. Ano
 
 ## Recomendations: 
 ####
-- When trying to determine if a mushroom is poisonous or edible:
+        - When trying to determine if a mushroom is poisonous or edible:
+  
         - Most edible mushrooms are browns/grays while poisonous tend be brighter, pink/red.
         - Most edible mushrooms smell like nothing, or like other familiar foods (almonds, anise) while poisonous tend to be offputting (fishy, foul, pungent, spicy)
         - The likelihood of a mushroom being poisonous if on its own and not in a group is extremely likely.
