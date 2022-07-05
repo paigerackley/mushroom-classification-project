@@ -46,7 +46,7 @@ def prepare_mush(df):
 
 def split_mush_data(df):
     '''
-    This function performs split on mushroom data, stratify class.
+    This function performs split on mushroom data.
     Returns train, validate, and test dfs. It is an all-in-all function.
     '''
     train_validate, test = train_test_split(df, test_size=.2, 
