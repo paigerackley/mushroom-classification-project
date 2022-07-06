@@ -1,5 +1,3 @@
-from this import d
-from urllib.request import urlopen
 import pandas as pd
 import numpy as np
 
