@@ -160,7 +160,7 @@ As shown, all of these models are extremely close in precision and accuracy. Ano
   
   **How to Reproduce**
 - [x] Read this README.md
-- [ ] You will need to download the mushroom.csv for the data contained at https://www.kaggle.com/datasets/uciml/mushroom-classification?datasetId=478&sortBy=voteCount
+- [ ] Download the repo that contains the mushroom.csv
 - [ ] Use the functions I have created that are contained in my python files
       - You will want the acquire and prepare files for acquiring and prepping data for exploring and modeling
       - I have a seperate python file called charts.py that contains the code for my visuals
