@@ -101,8 +101,7 @@ Other functions created:
   ###  Explore
 Viewing our visuals we found these trends:
 - Edible have either no smell or smell like foods we like (almond, anise) while poisonous tend to have strong and sometimes offputting smells that should raise a red flag.
-- edible tends to be browns/greys/neutrals while poisonous tend to be brighter, red/pink the majoirty of the time.
-- mushrooms that are alone or 'scattered' are much more likley to be poisonous than edible.
+- Ddible tends to be browns/greys/neutrals while poisonous tend to be brighter, red/pink the majoirty of the time.
 - if you see a mushroom growing in an urban area, it's more than likely edible, but I wouldn't test it unless you are sure.
  
 [[Back to top](#top)]
